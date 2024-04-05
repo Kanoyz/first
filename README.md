@@ -1,10 +1,14 @@
-# first
-practice
-<html>
-  <div style="border: #ffb6c1 solid 1px; font-size: 100%; padding: 20px;"> ここに本文を入れます♪
-  </div>
-<div style="background: #fceff2; box-shadow: #fceff2 0 0 10px 10px; margin:10px; font-size: 100%; padding: 20px;">
-  ここに本文を入れます♪
-</div>
-</html>
 
+<html>
+  <header>
+    <h1>Very first trip to island</h1>
+  </header>
+   <h2>subtitle</h2> 
+  <nav>
+    <ul>
+      <li><a href="#">ホーム</a></li>
+      <li><a href="#">概要</a></li>
+      <li><a href="#">サービス</a></li>
+      <li><a href="#">お問い合わせ</a></li>
+    </ul>
+  </nav>
