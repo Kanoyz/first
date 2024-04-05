@@ -1,5 +1,6 @@
 
 <html>
+  <body>
   <header>
     <h1>Very first trip to island</h1>
   </header>
@@ -12,3 +13,13 @@
       <li><a href="#">how</a></li>
     </ul>
   </nav>
+   <section>
+    <h2>ようこそ！</h2>
+    <p>このサイトは、簡単なサイトの例です。</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2021 簡単なサイト. All rights reserved.</p>
+  </footer>
+ </body>
+</html>
